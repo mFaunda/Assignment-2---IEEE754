@@ -1,0 +1,4 @@
+Download this folder and run the LoginSystem.bat.
+The program will create a save file for users to be saved to for later login access. 
+If you select a profile picture make sure it doesn't leave it's directory.  
+If you move a picture or use this program on a different computer delete the "userArray.ser" file.
