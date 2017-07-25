@@ -1,0 +1,5 @@
+When the Heap overflows that is because it is adding its content back to itself a 
+second time due to a weird thing I had to do in order to make sure that it's recursive method didn't loop forever.
+Before it breaks it gets all of it's data into the list, so nothing is affected in the end.
+
+URL: https://www.youtube.com/watch?v=U2kIIKZ_kdA&feature=youtu.be
